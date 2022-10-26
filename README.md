@@ -1,4 +1,4 @@
-# Crossy Road 🐓
+# Rossy Croad 🐓
 A Crossy Road game made with Three.js over a weekend <b>:(</b></br>
 Find the Game here on Glitch - https://glitch.com/~crossy-road</br>
 Play the Game here - https://crossy-road.glitch.me
